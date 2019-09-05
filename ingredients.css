@@ -1,0 +1,25 @@
+<style>
+
+@import url('https://fonts.googleapis.com/css?family=Manjari&display=swap');
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: lightblue;
+  text-align: center;
+  font-family: 'Manjari', sans-serif;
+}
+
+h2 {
+  color: lightblue;
+  text-align: left;
+}
+
+p {
+	
+	color: blue
+  font-size: 20px;
+}
+</style>
